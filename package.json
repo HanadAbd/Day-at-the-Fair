@@ -1,0 +1,19 @@
+{
+  "name": "day-at-the-fair",
+  "version": "1.0.0",
+  "description": "Relieve your death in a text based adventure and try to change the future",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanadAbd/Day-at-the-Fair.git"
+  },
+  "author": "Hanad Abdiazizali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HanadAbd/Day-at-the-Fair/issues"
+  },
+  "homepage": "https://github.com/HanadAbd/Day-at-the-Fair#readme"
+}
